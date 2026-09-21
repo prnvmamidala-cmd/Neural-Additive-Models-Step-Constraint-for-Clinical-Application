@@ -1,4 +1,4 @@
-# Neural-Additive-Models-Step-Constraint-for-Clinical-Application
+# Neural-Additive-Models-Step-Constraint-for-Clinical-Application 
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![Framework: PyTorch](https://shields.io)](https://pytorch.org)
@@ -93,3 +93,4 @@ If you use this architecture or framework in your research, please cite our conf
   year={2026}
 }
 ```
+Footnote: Project was completed last month, committed Sep 20 2026
