@@ -1,0 +1,9 @@
+# Patient-level data. Never commit cohort extracts or raw tables.
+data_local/
+*.csv
+*.csv.gz
+*.xpt
+*.XPT
+
+__pycache__/
+*.pyc
